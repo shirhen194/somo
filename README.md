@@ -1,2 +1,3 @@
 # somo
-hackathon project!-cloned to my github from may-aronov, a project for customized movie and book search
+hackathon project!-cloned to my github, a customized movie and book search engine (one of my best ones):
+https://github.com/May-Aronov/somo.git 
